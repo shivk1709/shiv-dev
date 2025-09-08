@@ -7,7 +7,7 @@ export default function ExperienceCounter() {
 
   useEffect(() => {
     if (isVisible) {
-      const startDate = new Date('2020-03-01');
+      const startDate = new Date("2021-02-26");
       const currentDate = new Date();
       
       const years = currentDate.getFullYear() - startDate.getFullYear();

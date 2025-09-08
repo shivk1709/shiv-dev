@@ -1,4 +1,4 @@
-import { Mail, Linkedin, Github, BookOpen } from "lucide-react";
+import { Mail, Linkedin, Github } from "lucide-react";
 
 export default function Footer() {
   return (
@@ -15,25 +15,17 @@ export default function Footer() {
             <span className="json-value">"Thanks for visiting!"</span>{" "}
             <span className="json-bracket">{`}`}</span>
           </div>
+
           <div className="flex justify-center space-x-6 mt-6">
             <a
-              href="mailto:kishankumar070997@gmail.com"
+              href="mailto:shivksharma2332@gmail.com"
               className="text-muted-foreground hover:text-primary transition-colors"
               data-testid="footer-email"
             >
               <Mail className="w-6 h-6" />
             </a>
             <a
-              href="https://thedevnerd.com"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-muted-foreground hover:text-accent transition-colors"
-              data-testid="footer-blog"
-            >
-              <BookOpen className="w-6 h-6" />
-            </a>
-            <a
-              href="https://www.linkedin.com/in/kishanmaharana/"
+              href="https://www.linkedin.com/in/shivk1709/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-muted-foreground hover:text-primary transition-colors"
@@ -42,7 +34,7 @@ export default function Footer() {
               <Linkedin className="w-6 h-6" />
             </a>
             <a
-              href="https://github.com/kumarkishan070997"
+              href="https://github.com/shivsharma"
               target="_blank"
               rel="noopener noreferrer"
               className="text-muted-foreground hover:text-primary transition-colors"
@@ -51,8 +43,9 @@ export default function Footer() {
               <Github className="w-6 h-6" />
             </a>
           </div>
+
           <div className="text-xs text-muted-foreground mt-8">
-            &copy; 2025 Kishan Maharana — Built with React, Fueled by APIs ⚙️
+            &copy; 2025 Shiv Kumar Sharma — Built with React, Fueled by APIs ⚙️
           </div>
         </div>
       </div>

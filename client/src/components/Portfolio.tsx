@@ -16,7 +16,6 @@ export default function Portfolio() {
       <ExperienceSection />
       <ProjectsSection />
       <SkillsSection />
-      <BlogSection />
       <Footer />
     </div>
   );

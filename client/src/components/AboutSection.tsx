@@ -32,7 +32,7 @@ export default function AboutSection() {
                 <div className="ml-4">
                   <span className="json-key">"name"</span>
                   <span className="json-bracket">:</span>{" "}
-                  <span className="json-string">"Kishan Maharana"</span>
+                  <span className="json-string">"Shiv Kumar Sharma"</span>
                   <span className="json-bracket">,</span>
                 </div>
                 <div className="ml-4">
@@ -44,20 +44,14 @@ export default function AboutSection() {
                 <div className="ml-4">
                   <span className="json-key">"experience"</span>
                   <span className="json-bracket">:</span>{" "}
-                  <span className="json-value">"5+ years"</span>
+                  <span className="json-value">"4+ years"</span>
                   <span className="json-bracket">,</span>
                 </div>
                 <div className="ml-4">
                   <span className="json-key">"description"</span>
                   <span className="json-bracket">:</span>{" "}
                   <span className="json-string">
-                    "Experienced Laravel Developer with 5+ years of expertise in
-                    web-based MVC pattern applications, RESTful API development,
-                    and Kafka-based services. Strong knowledge of optimized API
-                    design, versioning, and modularized Laravel structures.
-                    Proficient in HTML, CSS, JS, Bootstrap, and AJAX. Skilled in
-                    backend development, database optimization, and real-time data
-                    updates using WebSockets."
+                    "Experienced Software Engineer with 4+ years of expertise in designing and delivering scalable Java Spring Boot Microservices and Cloud-native applications. Proficient in RESTful API development, Kafka messaging, Docker containerization, and Kubernetes orchestration. Hands-on experience with AWS services (EC2, S3) and CI/CD pipelines using Jenkins. Strong background in software architecture, backend optimization, and Agile delivery."
                   </span>
                   <span className="json-bracket">,</span>
                 </div>
@@ -67,23 +61,23 @@ export default function AboutSection() {
                   <span className="json-bracket">[</span>
                 </div>
                 <div className="ml-8">
-                  <span className="json-string">"API Design & Development"</span>
+                  <span className="json-string">"REST API Development"</span>
                   <span className="json-bracket">,</span>
                 </div>
                 <div className="ml-8">
-                  <span className="json-string">"Building Scalable Solutions"</span>
+                  <span className="json-string">"Microservices Architecture"</span>
                   <span className="json-bracket">,</span>
                 </div>
                 <div className="ml-8">
-                  <span className="json-string">"Performance Optimization"</span>
+                  <span className="json-string">"Containerization & DevOps"</span>
                   <span className="json-bracket">,</span>
                 </div>
                 <div className="ml-8">
-                  <span className="json-string">"Team Leadership"</span>
+                  <span className="json-string">"Cloud Deployment (AWS)"</span>
                   <span className="json-bracket">,</span>
                 </div>
                 <div className="ml-8">
-                  <span className="json-string">"Client Collaboration"</span>
+                  <span className="json-string">"Automated Testing & CI/CD"</span>
                 </div>
                 <div className="ml-4">
                   <span className="json-bracket">]</span>
@@ -93,7 +87,7 @@ export default function AboutSection() {
                 </div>
               </div>
             </div>
-            
+
             <div
               className={`section-fade ${isVisible ? "visible" : ""}`}
               style={{ transitionDelay: "200ms" }}
