@@ -17,7 +17,7 @@ export default function HeroSection() {
       <div className="container mx-auto px-6 text-center">
         <div className="mb-8">
           <img
-            src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhurFZM9n2OgHBrhLGO-IqWzr8AJ2MVQmj1-PBBg-fvJcbmxP_oyB0aQOvoVY4f9D9iLHOTLx3Zn32s0ZEJIKejwHL0hNBAebIv0rNPLXtYl_XU_NSwGPs1su3ZH4ZGnX1GlthqGuEQNA6YTX6jIi5kWjAyQX_MskzifuMnWmoEZJ4BnqwJUc7GT0JhukRX/s16000/1703862582322%20(1).jpg"
+            src="https://github.com/shivk1709/shiv-dev/blob/main/Shiv_Image.jpg?raw=true"
             alt="Shiv Kumar Sharma Profile"
             className="w-[15rem] h-[15rem] rounded-full mx-auto object-cover shadow-2xl shadow-primary/50 hover:shadow-primary/70 transition-shadow duration-300"
             data-testid="profile-image"
@@ -62,7 +62,7 @@ export default function HeroSection() {
             Email
           </a>
           <a
-            href="https://www.linkedin.com/in/shivk1709/"
+            href="https://www.linkedin.com/in/shiv-sharma-a79a9a185/"
             target="_blank"
             rel="noopener noreferrer"
             className="border border-primary text-primary px-6 py-3 rounded-lg hover:bg-primary hover:text-primary-foreground transition-colors terminal-prompt inline-flex items-center justify-center gap-2"
@@ -72,7 +72,7 @@ export default function HeroSection() {
             LinkedIn
           </a>
           <a
-            href="https://github.com/shivsharma"
+            href="https://github.com/shivk1709"
             target="_blank"
             rel="noopener noreferrer"
             className="border border-secondary text-secondary px-6 py-3 rounded-lg hover:bg-secondary hover:text-secondary-foreground transition-colors terminal-prompt inline-flex items-center justify-center gap-2"

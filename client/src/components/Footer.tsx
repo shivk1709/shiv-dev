@@ -25,7 +25,7 @@ export default function Footer() {
               <Mail className="w-6 h-6" />
             </a>
             <a
-              href="https://www.linkedin.com/in/shivk1709/"
+              href="https://www.linkedin.com/in/shiv-sharma-a79a9a185/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-muted-foreground hover:text-primary transition-colors"
@@ -34,7 +34,7 @@ export default function Footer() {
               <Linkedin className="w-6 h-6" />
             </a>
             <a
-              href="https://github.com/shivsharma"
+              href="https://github.com/shivk1709"
               target="_blank"
               rel="noopener noreferrer"
               className="text-muted-foreground hover:text-primary transition-colors"

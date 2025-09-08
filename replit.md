@@ -1,6 +1,6 @@
 # Overview
 
-This is a full-stack web application built with a modern React frontend and Express.js backend. The project appears to be a personal portfolio website for Kishan Maharana, a software engineer with expertise in Laravel, PHP, and backend technologies. The application is structured as a monorepo with separate client and server directories, utilizing TypeScript throughout and modern development tools.
+This is a full-stack web application featuring a modern React frontend and an Express.js backend, organized as a monorepo with separate client and server directories. Built entirely with TypeScript, the project showcases Shiv Kumar Sharma’s expertise as a software engineer skilled in Java, Spring Boot, Microservices, and cloud-native technologies. The application highlights his professional experience, technical skills, and projects, providing a clean, responsive interface powered by a robust backend API.
 
 # User Preferences
 

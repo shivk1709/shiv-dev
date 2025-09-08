@@ -65,13 +65,6 @@ export default function Navigation() {
             >
               skills
             </button>
-            <button
-              onClick={() => handleNavClick("#blog")}
-              className="text-muted-foreground hover:text-primary transition-colors terminal-prompt"
-              data-testid="nav-blog"
-            >
-              articles
-            </button>
           </div>
 
           {/* Mobile Menu Button */}
